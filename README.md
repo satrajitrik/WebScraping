@@ -1,2 +1,2 @@
 # WebScraping
-Scraping web patent data using BeautifulSoup
+Scraping the class and year information of patents from the US Patent and Trademark Office website using BeautifulSoup and lxml.
